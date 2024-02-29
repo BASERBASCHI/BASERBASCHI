@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav Uniyal</h1>
 <h3 align="center">A passionate WEB3 Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baserbaschi" alt="baserbaschi" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **REACT, JS, FLUTTER**
@@ -23,3 +21,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baserbaschi&show_icons=true&locale=en&layout=compact" alt="baserbaschi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baserbaschi&" alt="baserbaschi" /></p>
+
