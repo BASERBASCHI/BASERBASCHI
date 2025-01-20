@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **REACT, JS, FLUTTER**
+- 🌱 I’m currently learning **WEB3, DSA**
 
-- 💬 Ask me about **PYTHON JAVA CLOUD**
+- 💬 Ask me about **PYTHON JAVA C/CPP**
 
 - 📫 How to reach me **ABHINAVUNIYAL2062@gmail.com**
 
